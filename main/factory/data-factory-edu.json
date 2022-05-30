@@ -1,0 +1,9 @@
+{
+	"name": "data-factory-edu",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4c506761-9057-4105-99e0-f050718e7408",
+		"tenantId": "a377ee62-25cf-4d8b-a011-3d6d98d3704a"
+	}
+}
